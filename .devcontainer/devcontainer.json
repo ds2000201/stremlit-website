@@ -1,0 +1,8 @@
+{
+    "name": "Docker",
+    "dockerFile": "Dockerfile",
+    "extensions": [
+      "ms-vscode-remote.remote-containers"
+    ]
+  }
+  
